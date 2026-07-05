@@ -26,7 +26,7 @@ An interactive human resources dashboard designed to analyze workforce demograph
 
 * **Metrics & Formulas:** 
   * **Total Employees =** DISTINCTCOUNT('Employee Data'[EmployeeID]) 
-  * **Active Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="No"))
+  * **Active Employees =** CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="No"))
   * **Inactive Employees =** CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="Yes"))
   * **% Attrition =** DIVIDE([Inactive Employees], [Total Employees])* **
 * **Visuals & Context:** 
@@ -54,7 +54,8 @@ An interactive human resources dashboard designed to analyze workforce demograph
 
 ## 5. Links & Access
 Live Link: 
-https://app.powerbi.com/groups/me/reports/c9bad196-4c97-485d-8ed9-d689371b84f2/3da49a5f76b4b386e416?experience=power-bi
+
+**https://app.powerbi.com/groups/me/reports/c9bad196-4c97-485d-8ed9-d689371b84f2/3da49a5f76b4b386e416?experience=power-bi
 
 ---
 
