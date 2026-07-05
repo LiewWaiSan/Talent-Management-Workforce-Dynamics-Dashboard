@@ -41,14 +41,14 @@ An interactive human resources dashboard designed to analyze workforce demograph
 ## 4. Key Insights & Business Recommendations
 
 * **Insights:** 
- 1. Compensation Trigger: Workers earning below $50k experience a massive 31.2% turnover rate, whereas individuals earning above $100k maintain a highly stable attrition profile of only ~10.5%.
-2. Work-Life Burnout: Staff required to complete Overtime assignments exhibit a ~30% turnover rate, significantly higher than non-overtime staff. Frequent business travel also accelerates voluntary departures.
-3. Tenure Risks: Attrition spikes aggressively within the initial 0–2 years of tenure, stabilizes mid-career, and spikes again at ultra-long tenure phases.
+  * **Compensation Trigger: Workers earning below $50k experience a massive 31.2% turnover rate, whereas individuals earning above $100k maintain a highly stable attrition profile of only ~10.5%.
+  * **Work-Life Burnout: Staff required to complete Overtime assignments exhibit a ~30% turnover rate, significantly higher than non-overtime staff. Frequent business travel also accelerates voluntary departures.
+  * **Tenure Risks: Attrition spikes aggressively within the initial 0–2 years of tenure, stabilizes mid-career, and spikes again at ultra-long tenure phases.
    
 * **Recommendations:** 
- * **1. Adjust Entry-Level Compensation: Benchmark and increase entry-level compensation packaging for roles earning below $50k to mitigate the 31.2% churn rate.* **
- * **2. Manage Overtime & Travel Fatigue: Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.* **
- * **3. Target Early Tenure Retention: Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.* **
+  * **Adjust Entry-Level Compensation: Benchmark and increase entry-level compensation packaging for roles earning below $50k to mitigate the 31.2% churn rate.* **
+  * **Manage Overtime & Travel Fatigue: Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.* **
+  * **Target Early Tenure Retention: Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.* **
 
 ---
 
