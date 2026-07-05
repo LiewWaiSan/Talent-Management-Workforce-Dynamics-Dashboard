@@ -42,10 +42,17 @@ Live Link: https://app.powerbi.com/groups/me/reports/c9bad196-4c97-485d-8ed9-d68
 
 
 6. Dashboard Visualizations Reference
-Overview Page 
+Overview Page
+<img width="1280" height="720" alt="overview" src="https://github.com/user-attachments/assets/4cfd8cb0-8c4e-4fac-8a34-fb52c2f93fe1" />
 
 Demographic Page 
-
+<img width="1280" height="720" alt="Demographic" src="https://github.com/user-attachments/assets/8aed9408-0b3c-4235-babf-b0ff8ebc38ab" />
 
 Performance Tracker Page 
+<img width="1280" height="720" alt="Performance Tracker" src="https://github.com/user-attachments/assets/0b282737-2c80-404d-827f-85f14faac71e" />
+
 Attrition Rate Page 
+<img width="1280" height="720" alt="Attrition Rate" src="https://github.com/user-attachments/assets/18a279f3-9666-4ef8-b9f1-2b6ab4af7b3f" />
+
+
+
