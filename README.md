@@ -26,29 +26,29 @@ An interactive human resources dashboard designed to analyze workforce demograph
 
 * **Metrics & Formulas:** 
   * **Total Employees =** DISTINCTCOUNT('Employee Data'[EmployeeID]) 
-  * **Active Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="No"))
-  * **Inactive Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="Yes"))
-  * **% Attrition = DIVIDE([Inactive Employees], [Total Employees])* **
+  * **Active Employees =** CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="No"))
+  * **Inactive Employees =** CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="Yes"))
+  * **% Attrition =** DIVIDE([Inactive Employees], [Total Employees])* **
 * **Visuals & Context:** 
-  * **KPI Cards: Arranged summary cards at the top for immediate visibility into Total, Active, Inactive headcount, and Attrition Rate.
-  * **Stacked Bar Chart: Selected to contrast attrition impact against structural salary bands.
-  * **Treemap: Leveraged to visualize employee volume concentrations across department and job role hierarchies simultaneously
-  * **Gauges: Employed to track average performance ratings and work-life balance levels against clear target thresholds.
-  * **Dual-Axis Combination Chart: Implemented to compare employee headcount bars alongside average monthly income line trends by job role.
+  * **KPI Cards:** Arranged summary cards at the top for immediate visibility into Total, Active, Inactive headcount, and Attrition Rate.
+  * **Stacked Bar Chart:** Selected to contrast attrition impact against structural salary bands.
+  * **Treemap:** Leveraged to visualize employee volume concentrations across department and job role hierarchies simultaneously
+  * **Gauges:** Employed to track average performance ratings and work-life balance levels against clear target thresholds.
+  * **Dual-Axis Combination Chart:** Implemented to compare employee headcount bars alongside average monthly income line trends by job role.
 
 ---
 
 ## 4. Key Insights & Business Recommendations
 
 * **Insights:** 
-  * **Compensation Trigger: Workers earning below $50k experience a massive 31.2% turnover rate, whereas individuals earning above $100k maintain a highly stable attrition profile of only ~10.5%.
-  * **Work-Life Burnout: Staff required to complete Overtime assignments exhibit a ~30% turnover rate, significantly higher than non-overtime staff. Frequent business travel also accelerates voluntary departures.
-  * **Tenure Risks: Attrition spikes aggressively within the initial 0–2 years of tenure, stabilizes mid-career, and spikes again at ultra-long tenure phases.
+  * **Compensation Trigger:** Workers earning below $50k experience a massive 31.2% turnover rate, whereas individuals earning above $100k maintain a highly stable attrition profile of only ~10.5%.
+  * **Work-Life Burnout:** Staff required to complete Overtime assignments exhibit a ~30% turnover rate, significantly higher than non-overtime staff. Frequent business travel also accelerates voluntary departures.
+  * **Tenure Risks:** Attrition spikes aggressively within the initial 0–2 years of tenure, stabilizes mid-career, and spikes again at ultra-long tenure phases.
    
 * **Recommendations:** 
-  * **Adjust Entry-Level Compensation: Benchmark and increase entry-level compensation packaging for roles earning below $50k to mitigate the 31.2% churn rate.* **
-  * **Manage Overtime & Travel Fatigue: Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.* **
-  * **Target Early Tenure Retention: Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.* **
+  * **Adjust Entry-Level Compensation:** Benchmark and increase entry-level compensation packaging for roles earning below $50k to mitigate the 31.2% churn rate.* **
+  * **Manage Overtime & Travel Fatigue:** Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.* **
+  * **Target Early Tenure Retention:** Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.* **
 
 ---
 
