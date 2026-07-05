@@ -36,6 +36,8 @@ An interactive human resources dashboard designed to analyze workforce demograph
 • Gauges: Employed to track average performance ratings and work-life balance levels against clear target thresholds.
 • Dual-Axis Combination Chart: Implemented to compare employee headcount bars alongside average monthly income line trends by job role.
 
+---
+
 ## 4. Key Insights & Business Recommendations
 
 * **Insights: 
@@ -48,8 +50,12 @@ An interactive human resources dashboard designed to analyze workforce demograph
 2. Manage Overtime & Travel Fatigue: Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.
 3. Target Early Tenure Retention: Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.
 
+---
+
 ## 5. Links & Access
 Live Link: https://app.powerbi.com/groups/me/reports/c9bad196-4c97-485d-8ed9-d689371b84f2/3da49a5f76b4b386e416?experience=power-bi
+
+---
 
 ## 6. Dashboard Visualizations Reference
 Overview Page
