@@ -25,16 +25,16 @@ An interactive human resources dashboard designed to analyze workforce demograph
 ## 3. Key Performance Indicators (KPIs) & Logic
 
 * **Metrics & Formulas:** 
-  * **Total Employees = DISTINCTCOUNT('Employee Data'[EmployeeID])
-  * **Active Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="No"))
-  * **Inactive Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="Yes"))
-  * **% Attrition = DIVIDE([Inactive Employees], [Total Employees])
-* **Visuals & Context: 
-    * **KPI Cards: Arranged summary cards at the top for immediate visibility into Total, Active, Inactive headcount, and Attrition Rate.
-  * **Stacked Bar Chart: Selected to contrast attrition impact against structural salary bands.
-• Treemap: Leveraged to visualize employee volume concentrations across department and job role hierarchies simultaneously.
-• Gauges: Employed to track average performance ratings and work-life balance levels against clear target thresholds.
-• Dual-Axis Combination Chart: Implemented to compare employee headcount bars alongside average monthly income line trends by job role.
+  * **Total Employees = DISTINCTCOUNT('Employee Data'[EmployeeID])* **
+  * **Active Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="No"))* **
+  * **Inactive Employees = CALCULATE([Total Employees], FILTER('Employee Data', 'Employee Data'[Attrition]="Yes"))* **
+  * **% Attrition = DIVIDE([Inactive Employees], [Total Employees])* **
+* **Visuals & Context:* ** 
+  * **KPI Cards: Arranged summary cards at the top for immediate visibility into Total, Active, Inactive headcount, and Attrition Rate.* **
+  * **Stacked Bar Chart: Selected to contrast attrition impact against structural salary bands.* **
+  * **Treemap: Leveraged to visualize employee volume concentrations across department and job role hierarchies simultaneously.* **
+  * **Gauges: Employed to track average performance ratings and work-life balance levels against clear target thresholds.* **
+  * **Dual-Axis Combination Chart: Implemented to compare employee headcount bars alongside average monthly income line trends by job role.* **
 
 ---
 
