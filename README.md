@@ -1,11 +1,11 @@
 # Talent-Management-Workforce-Dynamics-Dashboard
 An interactive human resources dashboard designed to analyze workforce demographics, evaluate employee performance and track attrition trends to improve retention strategies at Liew Wai San Trading Co.
 
-1. Project Overview & Business Problem
+**1. Project Overview & Business Problem**
 •	Objective: An interactive human resources dashboard designed to analyze workforce demographics, evaluate employee performance and track attrition trends to improve retention strategies at Liew Wai San Trading Co.
 •	Identified the operational root causes behind the employee attrition to stabilize workforce dynamics and reduce talent replacement costs.
 •	Target Audience: HR Directors, C-Suite Executives, and Department Managers.
-2. Technical Stack & Data Specifications
+**2. Technical Stack & Data Specifications
 •	Tools Used: Power BI Desktop, Power Query (M), DAX, and Power BI Service.
 •	Data Source & Extraction: Raw internal HR datasets loaded via distinct tabular files, including Education, Attrition Rates, Employee Data, Job Involvement, Performance Rating, Satisfaction and WorkLifeBalance.
 •	Data Modeling & Cleaning: 
