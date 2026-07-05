@@ -41,19 +41,20 @@ An interactive human resources dashboard designed to analyze workforce demograph
 ## 4. Key Insights & Business Recommendations
 
 * **Insights:** 
-1. Compensation Trigger: Workers earning below $50k experience a massive 31.2% turnover rate, whereas individuals earning above $100k maintain a highly stable attrition profile of only ~10.5%.
+ 1. Compensation Trigger: Workers earning below $50k experience a massive 31.2% turnover rate, whereas individuals earning above $100k maintain a highly stable attrition profile of only ~10.5%.
 2. Work-Life Burnout: Staff required to complete Overtime assignments exhibit a ~30% turnover rate, significantly higher than non-overtime staff. Frequent business travel also accelerates voluntary departures.
 3. Tenure Risks: Attrition spikes aggressively within the initial 0–2 years of tenure, stabilizes mid-career, and spikes again at ultra-long tenure phases.
    
 * **Recommendations:** 
-1. Adjust Entry-Level Compensation: Benchmark and increase entry-level compensation packaging for roles earning below $50k to mitigate the 31.2% churn rate.
-2. Manage Overtime & Travel Fatigue: Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.
-3. Target Early Tenure Retention: Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.
+ * **1. Adjust Entry-Level Compensation: Benchmark and increase entry-level compensation packaging for roles earning below $50k to mitigate the 31.2% churn rate.* **
+ * **2. Manage Overtime & Travel Fatigue: Re-evaluate overtime necessity, audit business travel frequency, or implement compensatory resting cycles to mitigate burnout.* **
+ * **3. Target Early Tenure Retention: Deploy specialized onboarding mentorship and explicit milestone career-mapping frameworks tailored to shield employees in their first two years.* **
 
 ---
 
 ## 5. Links & Access
-Live Link: https://app.powerbi.com/groups/me/reports/c9bad196-4c97-485d-8ed9-d689371b84f2/3da49a5f76b4b386e416?experience=power-bi
+Live Link: 
+https://app.powerbi.com/groups/me/reports/c9bad196-4c97-485d-8ed9-d689371b84f2/3da49a5f76b4b386e416?experience=power-bi
 
 ---
 
