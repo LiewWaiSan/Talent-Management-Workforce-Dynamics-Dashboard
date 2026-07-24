@@ -17,6 +17,8 @@ An interactive human resources dashboard designed to analyze workforce demograph
 * **Data Modeling & Cleaning:** 
   * **Data Cleaning:** Pruned empty rows and rows containing null values. Standardized the `Attrition_rate` column to a percentage data type and the `Date` column to a DateTime layout. Eliminated redundant empty columns (Columns 30–40) in the primary employee data table.
   * **Schema Layout:** Built a standard Star Schema linking 5 peripheral dimension tables (*Education*, *Job Involvement*, *Performance Rating*, *Satisfaction*, *Work Life Balance*) to a centralized fact table (*Employee Data*) using One-to-Many ($1:*$) relationships.
+    <img width="867" height="707" alt="Untitled" src="https://github.com/user-attachments/assets/03983f2b-2e8f-4fe8-9a5b-55ea1a6a5e27" />
+
   * **Hierarchies:** Configured an organizational drill-down path (`Department` $\rightarrow$ `Job Role`) inside the fact table.
 
 ---
